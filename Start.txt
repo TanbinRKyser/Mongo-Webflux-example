@@ -1,0 +1,2 @@
+1. Start the mongodb server first.
+2. Then run the application.
